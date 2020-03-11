@@ -1,0 +1,39 @@
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\bin\Debug\Week3.exe.config
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\bin\Debug\Week3.exe
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\bin\Debug\Week3.pdb
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\obj\Debug\Week3.csprojResolveAssemblyReference.cache
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\obj\Debug\Week3.frm1.resources
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\obj\Debug\Week3.Properties.Resources.resources
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\obj\Debug\Week3.csproj.GenerateResource.Cache
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\obj\Debug\Week3.exe
+C:\Users\julianoantonioperin\Desktop\Week3\Week3\obj\Debug\Week3.pdb
+U:\Week3\Week3\bin\Debug\Week3.exe.config
+U:\Week3\Week3\obj\Debug\Week3.exe
+U:\Week3\Week3\obj\Debug\Week3.pdb
+U:\Week3\Week3\bin\Debug\Week3.exe
+U:\Week3\Week3\bin\Debug\Week3.pdb
+U:\Week3\Week3\obj\Debug\Week3.csprojResolveAssemblyReference.cache
+U:\Week3\Week3\obj\Debug\Week3.frm1.resources
+U:\Week3\Week3\obj\Debug\Week3.Properties.Resources.resources
+U:\Week3\Week3\obj\Debug\Week3.csproj.GenerateResource.Cache
+U:\Week3\Week3\obj\Debug\Week3.Welcome.resources
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\bin\Debug\Week3.exe.config
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\obj\Debug\Week3.exe
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\obj\Debug\Week3.pdb
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\bin\Debug\Week3.exe
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\bin\Debug\Week3.pdb
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\obj\Debug\Week3.csprojResolveAssemblyReference.cache
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\obj\Debug\Week3.Properties.Resources.resources
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\obj\Debug\Week3.Welcome.resources
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\obj\Debug\Week3.csproj.GenerateResource.Cache
+U:\aa CIT160 - Object-Oriented Languages\Week3\Week3\obj\Debug\Week3.form1.resources
+C:\Users\julia\Desktop\week3\bin\Debug\Week3.exe.config
+C:\Users\julia\Desktop\week3\bin\Debug\Week3.exe
+C:\Users\julia\Desktop\week3\bin\Debug\Week3.pdb
+C:\Users\julia\Desktop\week3\obj\Debug\Week3.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\week3\obj\Debug\Week3.Form1.resources
+C:\Users\julia\Desktop\week3\obj\Debug\Week3.Properties.Resources.resources
+C:\Users\julia\Desktop\week3\obj\Debug\Week3.Welcome.resources
+C:\Users\julia\Desktop\week3\obj\Debug\Week3.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\week3\obj\Debug\Week3.exe
+C:\Users\julia\Desktop\week3\obj\Debug\Week3.pdb
